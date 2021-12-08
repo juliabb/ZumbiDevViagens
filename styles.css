@@ -526,7 +526,7 @@ footer .social a:hover {
   }
 
   #about .image img {
-    width: 40vw;
+    width: 30rem;
     grid-area: left;
   }
 
@@ -556,13 +556,57 @@ footer .social a:hover {
     align-items: center;
     justify-content: space-between;
   }
-}
+
 /* large devices: 1023 > */
+@media (min-width: 1023px) {
+  :root {
+    --title-font-size: 2.25rem;
+    --subtitle-font-size: 1.125rem;
+  }
+   /* about */
+
+   #about .container {
+    margin: auto 6rem;
+    }
+
+   #about .image img {
+    width: 35rem;
+    margin: auto;
+  }
+}
 /* large devices: 992 > */
 @media (min-width: 992px) {
   :root {
     --title-font-size: 2.25rem;
     --subtitle-font-size: 1.125rem;
   }
+
+     /* about */
+
+     #about .container {
+      margin: auto 5rem;
+      }
+
+     #about .image img {
+      width: 40rem;
+      margin: auto;
+    }
 }
 /* medium devices: 767 > */
+@media (min-width: 767px) {
+  :root {
+    --title-font-size: 2.25rem;
+    --subtitle-font-size: 1.125rem;
+  }
+
+     /* about */
+
+     #about .container {
+      margin: auto 5rem;
+      }
+
+     #about .image img {
+      width: 30rem;
+      margin: auto;
+    }
+}
