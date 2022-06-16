@@ -1,7 +1,19 @@
 <h1 align="center"> ZumbiDev Viagens </h1>
+
+## 💻 Projeto 
+
+### :arrow_right: Você pode acessar [Clicando aqui](https://pliniki.github.io/ZumbiDevViagens/)
+
+ZumbiDev Viagens foi desenvolvido como trabalho final do curso Capacitação Desenvolvedor Web promovido pela [Universidade Zumbi dos Palmares](https://www.linkedin.com/company/faculdade-zumbi-dos-palmares/) em parceria com a [Brasscom](https://www.linkedin.com/company/brasscom/), com apoio da [Mais1Code](https://www.linkedin.com/company/mais1code/)
+
+
 <p align="center">
-  <img alt="Logo ZumbiDev Viagens" src="https://raw.githubusercontent.com/pliniki/ZumbiDevViagens/74210297e356b66d158d3302b4e71b35fbf8cd0c/assets/layout_final/Landing%20page.svg" width="100%">
+  <img alt="Logo ZumbiDev Viagens" src="https://raw.githubusercontent.com/pliniki/ZumbiDevViagens/74210297e356b66d158d3302b4e71b35fbf8cd0c/assets/layout_final/Landing%20page.svg" width="70%">
 </p>
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/VwMCViaQgkU6GhQzxDQ43G/Untitled?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## 🚀 Tecnologias
 
@@ -21,15 +33,6 @@ Utilitários
 
 - [Pexels](https://www.pexels.com/pt-br/)
 
-## 💻 Projeto 
-
-## :arrow_right: Você pode acessar [Clicando aqui](https://pliniki.github.io/ZumbiDevViagens/)
-
-ZumbiDev Viagens foi desenvolvido como trabalho final do curso Capacitação Desenvolvedor Web promovido pela [Universidade Zumbi dos Palmares](https://www.linkedin.com/company/faculdade-zumbi-dos-palmares/) em parceria com a [Brasscom](https://www.linkedin.com/company/brasscom/), com apoio da [Mais1Code](https://www.linkedin.com/company/mais1code/)
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/VwMCViaQgkU6GhQzxDQ43G/Untitled?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## 🧑🏾‍🤝‍🧑🏿 Desenvolvedores
 
@@ -49,7 +52,7 @@ Paulo Carvalho [Linkedin](https://www.linkedin.com/in/paulo-carvalho/) <br>
 Paulo Carvalho [Linkedin](https://www.linkedin.com/in/paulo-carvalho/) <br>
 Diego <br>
 
-- Seção sobre nos e dos destinos <br>
+- Seção Sobre Nós e Destinos <br>
 Julia Benedicto [Linkedin](https://www.linkedin.com/in/julia-cruz-7aa339183/) <br>
 
 - Contato com Forms <br>
